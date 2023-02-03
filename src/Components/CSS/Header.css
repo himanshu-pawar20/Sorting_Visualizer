@@ -1,0 +1,87 @@
+.header {
+    background-color: black;
+    padding:  10px 50px;
+    border-radius: 5px;
+}
+.Newarray:hover{
+    background-color: #adb7c9;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.Newarray{
+    background-color: grey;
+    font-size: 25px;
+    padding: 8px 25px;
+    border-radius: 20px;
+    margin: 15px 20px;
+}
+.Newarray:active{
+    background-color: white;
+}
+.Algo{
+    background-color: grey;
+    font-size: 25px;
+    padding: 8px 25px;
+    border-radius: 20px;
+    margin: 15px 20px;
+}
+.Sort:hover{
+    background-color: #adb7c9;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.Sort{
+    background-color: grey;
+    font-size: 25px;
+    padding: 8px 25px;
+    border-radius: 20px;
+    margin: 15px 20px;
+}
+.Sort:active{
+    background-color: white;
+}
+.Bars{
+    /* top: 20%;
+    left: 10%;
+    right: 10%; */
+    width: 1707px;
+    height: 610px;
+    padding: 50px;
+    display:block;
+    position: absolute;
+    background-color: grey;
+    
+}
+.Candle{
+    width: 10px;
+    background-color: mediumaquamarine;
+    margin-left: 4px;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 10px;
+    /* position: middle; */
+    align-content: center;
+}
+  
+.nametr{
+    margin-left: 20px;
+    margin-right: 5px;
+    color: white;
+    font-size: 25px;
+}
+.Slider{
+    margin-left: 5px;
+    margin-right: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.Text{
+    width: 1607px;
+    height: 20px;
+    padding: 30px;
+    background-color: grey;
+    padding-left: 170px;
+    color: black;
+    
+}
