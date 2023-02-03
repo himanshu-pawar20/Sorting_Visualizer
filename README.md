@@ -11,7 +11,7 @@
 
 ## Some ScreenShot of Project
 ![This is an Image](./public/p1.png)
-![This is an Image](./public/p2.png)
+![This is an Image](./public/P2.png)
 
 ## Guide to Run this Project
 1. You need to have Node.JS, NPM, React Installed on your system.
